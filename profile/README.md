@@ -9,6 +9,10 @@ the motto is:
 
 Considering these impressions, **"Single-Use Vault"** may be the best choice if the emphasis is on strong security and the idea of each message being as secure as valuables in a bank vault. However, if the company wants to stress the temporary and disposable nature of the service more, **"Disposable Safe"** might be a better fit. **"One-Time Safe"** strikes a balance between the two and might be chosen if a compromise between security and disposability is desired. 
 
+## LockerLess?
+
+LockerLess is a user-friendly SaaS platform offering secure, encrypted communication and file exchange, with end-to-end encryption to ensure that messages and attachments can only be accessed by intended recipients. Users can conveniently encrypt their content on any device via a web interface or mobile app, share it through a secure link, and recipients can securely decrypt the message and files in the LockerLess securebox using a decryption key or password.
+
 ## How it works?
 LockerLess is a SaaS (Software as a Service) platform designed for secure, encrypted communications with exchange files.
 It provides users with a way to send messages and attachments that are protected with end-to-end encryption, ensuring that only the intended recipients can access and read them. 
