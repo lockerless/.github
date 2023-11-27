@@ -1,6 +1,13 @@
 ## [lockerless.com - your secret box](https://www.lockerless.com/)
 
-Lockerless is Trusted single-use box for encrypted messages. the motto is: "Your secret box"
+Lockerless is Trusted single-use box for encrypted messages. 
+the motto is: 
++ "Disposable Safe"
++ "Single-Use Vault"
++ "Your secret box"
+
+
+Considering these impressions, **"Single-Use Vault"** may be the best choice if the emphasis is on strong security and the idea of each message being as secure as valuables in a bank vault. However, if the company wants to stress the temporary and disposable nature of the service more, **"Disposable Safe"** might be a better fit. **"One-Time Safe"** strikes a balance between the two and might be chosen if a compromise between security and disposability is desired. 
 
 
 ## Mission
